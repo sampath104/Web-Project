@@ -1,0 +1,5 @@
+python 3.7
+================
+pip install matplotlib
+pip install sklearn
+pip install scikit-image
