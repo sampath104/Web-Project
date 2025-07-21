@@ -1,2 +1,2 @@
-# Web-Project
-Web Project Description 
+# Project-Bird Species Identification Using Deep Learning 
+This project aims to identify bird species from images using deep learning. A Convolutional Neural Network (CNN) is trained on a labeled bird image dataset to classify various species accurately. Transfer learning with pretrained models like ResNet improves the accuracy and efficiency of training. The final model is deployed through a simple web interface, allowing users to upload images and get real-time bird species predictions.
